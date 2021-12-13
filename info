@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Discord Community Island"))
+  (description (_ "An island, where members of the various official SuperTux Discord servers have contributed their works."))
+  (levelset #t)
+  (hide-from-contribs #f)
+)
