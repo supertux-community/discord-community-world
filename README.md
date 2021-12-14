@@ -1,6 +1,6 @@
-# SuperTux Discord Community Island
+# SuperTux Discord Community World
 
-This repository serves as an attempt for creating a SuperTux Community Island with members of the various official SuperTux Discord servers.
+This repository serves as an attempt for creating a SuperTux Community World with members of the various official SuperTux Discord servers.
 
 ## Contributors
 
