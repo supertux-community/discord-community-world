@@ -44,18 +44,6 @@
       (name "Camera")
       (mode "normal")
     )
-    (coin
-      (path-ref "gen1639485727256239232")
-    )
-    (coin
-      (path-ref "gen1639487111268548240")
-    )
-    (coin
-      (path-ref "gen1639487170268551504")
-    )
-    (coin
-      (path-ref "gen1639488667256237408")
-    )
     (decal
       (sprite "/images/decal/snow/exitbg.png")
       (x 6560)
