@@ -4,8 +4,9 @@ This repository serves as an attempt for creating a SuperTux Community World wit
 
 ## Contributors
 
-People that have contributed levels to the world:
+People, who have contributed to the world:
 
 * Frost3424 (JL0027)
 * Rob
 * Vankata453
+* Marin
