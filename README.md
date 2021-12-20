@@ -6,7 +6,7 @@ This repository serves as an attempt for creating a SuperTux Community World wit
 
 People, who have contributed to the world:
 
-* Frost3424 (JL0027)
-* Rob
-* Vankata453
-* Marin
+* **Frost3424 (JL0027)** - Levels
+* **Rob** - Worldmap Design & Levels
+* **Vankata453** - Worldmap Design & Levels
+* **Marin** - Worldmap Design
