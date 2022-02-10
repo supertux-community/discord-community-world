@@ -112,6 +112,8 @@
     )
     (particles-clouds
     )
+    (particles-snow
+    )
     (rock
       (x 3552)
       (y 768)
