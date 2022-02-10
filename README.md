@@ -9,4 +9,4 @@ People, who have contributed to the world:
 * **Frost3424 (JL0027)** - Levels
 * **Rob** - Worldmap Design & Levels
 * **Vankata453** - Worldmap Design & Levels
-* **Marin** - Worldmap Design
+* **Marin** - Worldmap Design & Levels
